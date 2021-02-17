@@ -4,8 +4,6 @@ on:
   push:
     branches:
     - crawler
-    - har-file
-    - swagger
   pull_request:
     branches: [ main ]
 
